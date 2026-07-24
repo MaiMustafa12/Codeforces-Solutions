@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 30 | 10 |
+| 45 | 10 |
 
 ---
 
@@ -16,12 +16,12 @@
 - [brute force](#brute-force) (5)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
-- [greedy](#greedy) (6)
-- [implementation](#implementation) (21)
-- [math](#math) (6)
+- [greedy](#greedy) (8)
+- [implementation](#implementation) (33)
+- [math](#math) (8)
 - [number theory](#number-theory) (1)
-- [sortings](#sortings) (2)
-- [strings](#strings) (3)
+- [sortings](#sortings) (5)
+- [strings](#strings) (6)
 
 ---
 
@@ -60,6 +60,8 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/158/B%20-%20Taxi/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 337A | [Puzzles](https://codeforces.com/contest/337/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/337/A%20-%20Puzzles/solution.cpp) |
+| 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
 | 1353B | [Two Arrays And Swaps](https://codeforces.com/contest/1353/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/1353/B%20-%20Two%20Arrays%20And%20Swaps/solution.cpp) |
 | 1742B | [Increasing](https://codeforces.com/contest/1742/problem/B) | 800 | [Python 3](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/1742/B%20-%20Increasing/solution.py) |
@@ -70,18 +72,30 @@
 |---|---------|------------|----------|
 | 31A | [Worms Evolution](https://codeforces.com/contest/31/problem/A) | 1200 | [Python 3](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/31/A%20-%20Worms%20Evolution/solution.py) |
 | 38A | [Army](https://codeforces.com/contest/38/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/38/A%20-%20Army/solution.cpp) |
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Python 3](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/59/A%20-%20Word/solution.py) |
+| 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/116/A%20-%20Tram/solution.cpp) |
+| 144A | [Arrival of the General](https://codeforces.com/contest/144/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/144/A%20-%20Arrival%20of%20the%20General/solution.cpp) |
 | 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/158/B%20-%20Taxi/solution.cpp) |
+| 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/228/A%20-%20Is%20your%20horseshoe%20on%20the%20other%20hoof%3F/solution.cpp) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
+| 275A | [Lights Out](https://codeforces.com/contest/275/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/275/A%20-%20Lights%20Out/solution.cpp) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
+| 294A | [Shaass and Oskols](https://codeforces.com/contest/294/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/294/A%20-%20Shaass%20and%20Oskols/solution.cpp) |
 | 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/344/A%20-%20Magnets/solution.cpp) |
+| 365A | [Good Number](https://codeforces.com/contest/365/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/365/A%20-%20Good%20Number/solution.cpp) |
+| 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.cpp) |
 | 474A | [Keyboard](https://codeforces.com/contest/474/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/474/A%20-%20Keyboard/solution.cpp) |
 | 492A | [Vanya and Cubes](https://codeforces.com/contest/492/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/492/A%20-%20Vanya%20and%20Cubes/solution.cpp) |
 | 509A | [Maximum in Table](https://codeforces.com/contest/509/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/509/A%20-%20Maximum%20in%20Table/solution.cpp) |
+| 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/520/A%20-%20Pangram/solution.cpp) |
+| 560A | [Currency System in Geraldion](https://codeforces.com/contest/560/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/560/A%20-%20Currency%20System%20in%20Geraldion/solution.cpp) |
 | 591A | [Wizards' Duel](https://codeforces.com/contest/591/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/591/A%20-%20Wizards'%20Duel/solution.cpp) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
+| 873A | [Chores](https://codeforces.com/contest/873/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/873/A%20-%20Chores/solution.cpp) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
+| 1144A | [Diverse Strings](https://codeforces.com/contest/1144/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/1144/A%20-%20Diverse%20Strings/solution.cpp) |
 | 1213B | [Bad Prices](https://codeforces.com/contest/1213/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/1213/B%20-%20Bad%20Prices/solution.cpp) |
 | 1676A | [Lucky?](https://codeforces.com/contest/1676/problem/A) | 800 | [Python 3](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/1676/A%20-%20Lucky%3F/solution.py) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Python 3](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.py) |
@@ -97,8 +111,10 @@
 | 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/1/A%20-%20Theatre%20Square/solution.cpp) |
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 294A | [Shaass and Oskols](https://codeforces.com/contest/294/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/294/A%20-%20Shaass%20and%20Oskols/solution.cpp) |
 | 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/318/A%20-%20Even%20Odds/solution.cpp) |
 | 591A | [Wizards' Duel](https://codeforces.com/contest/591/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/591/A%20-%20Wizards'%20Duel/solution.cpp) |
+| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 2132B | [The Secret Number](https://codeforces.com/contest/2132/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/2132/B%20-%20The%20Secret%20Number/solution.cpp) |
 
 ### number theory
@@ -111,6 +127,9 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
+| 560A | [Currency System in Geraldion](https://codeforces.com/contest/560/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/560/A%20-%20Currency%20System%20in%20Geraldion/solution.cpp) |
+| 1015C | [Songs Compression](https://codeforces.com/contest/1015/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/1015/C%20-%20Songs%20Compression/solution.cpp) |
 | 1353B | [Two Arrays And Swaps](https://codeforces.com/contest/1353/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/1353/B%20-%20Two%20Arrays%20And%20Swaps/solution.cpp) |
 | 1742B | [Increasing](https://codeforces.com/contest/1742/problem/B) | 800 | [Python 3](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/1742/B%20-%20Increasing/solution.py) |
 
@@ -118,7 +137,10 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Python 3](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/59/A%20-%20Word/solution.py) |
+| 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/520/A%20-%20Pangram/solution.cpp) |
+| 1144A | [Diverse Strings](https://codeforces.com/contest/1144/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/1144/A%20-%20Diverse%20Strings/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Python 3](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.py) |
 | 1829A | [Love Story](https://codeforces.com/contest/1829/problem/A) | 800 | [Python 3](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/1829/A%20-%20Love%20Story/solution.py) |
 
