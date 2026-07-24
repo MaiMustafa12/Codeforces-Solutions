@@ -6,28 +6,46 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 7 |
+| 30 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (2)
+- [*special](#special) (1)
+- [brute force](#brute-force) (5)
+- [data structures](#data-structures) (1)
 - [dp](#dp) (1)
-- [greedy](#greedy) (3)
-- [implementation](#implementation) (10)
-- [math](#math) (5)
-- [sortings](#sortings) (1)
+- [greedy](#greedy) (6)
+- [implementation](#implementation) (21)
+- [math](#math) (6)
+- [number theory](#number-theory) (1)
+- [sortings](#sortings) (2)
 - [strings](#strings) (3)
 
 ---
+
+### *special
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/158/B%20-%20Taxi/solution.cpp) |
 
 ### brute force
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/122/A%20-%20Lucky%20Division/solution.cpp) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 509A | [Maximum in Table](https://codeforces.com/contest/509/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/509/A%20-%20Maximum%20in%20Table/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Python 3](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.py) |
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1213B | [Bad Prices](https://codeforces.com/contest/1213/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/1213/B%20-%20Bad%20Prices/solution.cpp) |
 
 ### dp
 
@@ -40,7 +58,10 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/158/B%20-%20Taxi/solution.cpp) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
+| 1353B | [Two Arrays And Swaps](https://codeforces.com/contest/1353/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/1353/B%20-%20Two%20Arrays%20And%20Swaps/solution.cpp) |
 | 1742B | [Increasing](https://codeforces.com/contest/1742/problem/B) | 800 | [Python 3](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/1742/B%20-%20Increasing/solution.py) |
 
 ### implementation
@@ -48,9 +69,20 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 31A | [Worms Evolution](https://codeforces.com/contest/31/problem/A) | 1200 | [Python 3](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/31/A%20-%20Worms%20Evolution/solution.py) |
+| 38A | [Army](https://codeforces.com/contest/38/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/38/A%20-%20Army/solution.cpp) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Python 3](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/59/A%20-%20Word/solution.py) |
+| 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/158/B%20-%20Taxi/solution.cpp) |
+| 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
+| 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
+| 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/344/A%20-%20Magnets/solution.cpp) |
+| 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.cpp) |
 | 474A | [Keyboard](https://codeforces.com/contest/474/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/474/A%20-%20Keyboard/solution.cpp) |
+| 492A | [Vanya and Cubes](https://codeforces.com/contest/492/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/492/A%20-%20Vanya%20and%20Cubes/solution.cpp) |
+| 509A | [Maximum in Table](https://codeforces.com/contest/509/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/509/A%20-%20Maximum%20in%20Table/solution.cpp) |
 | 591A | [Wizards' Duel](https://codeforces.com/contest/591/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/591/A%20-%20Wizards'%20Duel/solution.cpp) |
+| 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
+| 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
+| 1213B | [Bad Prices](https://codeforces.com/contest/1213/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/1213/B%20-%20Bad%20Prices/solution.cpp) |
 | 1676A | [Lucky?](https://codeforces.com/contest/1676/problem/A) | 800 | [Python 3](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/1676/A%20-%20Lucky%3F/solution.py) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Python 3](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.py) |
 | 1742B | [Increasing](https://codeforces.com/contest/1742/problem/B) | 800 | [Python 3](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/1742/B%20-%20Increasing/solution.py) |
@@ -67,11 +99,19 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/318/A%20-%20Even%20Odds/solution.cpp) |
 | 591A | [Wizards' Duel](https://codeforces.com/contest/591/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/591/A%20-%20Wizards'%20Duel/solution.cpp) |
+| 2132B | [The Secret Number](https://codeforces.com/contest/2132/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/2132/B%20-%20The%20Secret%20Number/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/122/A%20-%20Lucky%20Division/solution.cpp) |
 
 ### sortings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1353B | [Two Arrays And Swaps](https://codeforces.com/contest/1353/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/1353/B%20-%20Two%20Arrays%20And%20Swaps/solution.cpp) |
 | 1742B | [Increasing](https://codeforces.com/contest/1742/problem/B) | 800 | [Python 3](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/1742/B%20-%20Increasing/solution.py) |
 
 ### strings
