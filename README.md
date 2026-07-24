@@ -6,21 +6,81 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 15 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [implementation](#implementation) (1)
+- [brute force](#brute-force) (2)
+- [dp](#dp) (1)
+- [greedy](#greedy) (3)
+- [implementation](#implementation) (10)
+- [math](#math) (5)
+- [sortings](#sortings) (1)
+- [strings](#strings) (3)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Python 3](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.py) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
+| 1742B | [Increasing](https://codeforces.com/contest/1742/problem/B) | 800 | [Python 3](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/1742/B%20-%20Increasing/solution.py) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 31A | [Worms Evolution](https://codeforces.com/contest/31/problem/A) | 1200 | [Python 3](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/31/A%20-%20Worms%20Evolution/solution.py) |
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Python 3](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/59/A%20-%20Word/solution.py) |
 | 474A | [Keyboard](https://codeforces.com/contest/474/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/474/A%20-%20Keyboard/solution.cpp) |
+| 591A | [Wizards' Duel](https://codeforces.com/contest/591/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/591/A%20-%20Wizards'%20Duel/solution.cpp) |
+| 1676A | [Lucky?](https://codeforces.com/contest/1676/problem/A) | 800 | [Python 3](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/1676/A%20-%20Lucky%3F/solution.py) |
+| 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Python 3](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.py) |
+| 1742B | [Increasing](https://codeforces.com/contest/1742/problem/B) | 800 | [Python 3](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/1742/B%20-%20Increasing/solution.py) |
+| 1742C | [Stripes](https://codeforces.com/contest/1742/problem/C) | 900 | [Python 3](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/1742/C%20-%20Stripes/solution.py) |
+| 1829A | [Love Story](https://codeforces.com/contest/1829/problem/A) | 800 | [Python 3](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/1829/A%20-%20Love%20Story/solution.py) |
+| 1926A | [Vlad and the Best of Five](https://codeforces.com/contest/1926/problem/A) | 800 | [Python 3](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/1926/A%20-%20Vlad%20and%20the%20Best%20of%20Five/solution.py) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/1/A%20-%20Theatre%20Square/solution.cpp) |
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/318/A%20-%20Even%20Odds/solution.cpp) |
+| 591A | [Wizards' Duel](https://codeforces.com/contest/591/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/591/A%20-%20Wizards'%20Duel/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1742B | [Increasing](https://codeforces.com/contest/1742/problem/B) | 800 | [Python 3](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/1742/B%20-%20Increasing/solution.py) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Python 3](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/59/A%20-%20Word/solution.py) |
+| 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Python 3](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.py) |
+| 1829A | [Love Story](https://codeforces.com/contest/1829/problem/A) | 800 | [Python 3](https://github.com/MaiMustafa12/Codeforces-Solutions/blob/HEAD/1829/A%20-%20Love%20Story/solution.py) |
 
 ---
 
